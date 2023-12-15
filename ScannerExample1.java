@@ -62,30 +62,6 @@ public class ScannerExample1 {
         System.out.println(
                 "#############################################################################################");
 
-        System.out.println(
-                "############################################################################################");
-        System.out.println("Menu Item:\tPrice\tQty\tPayable");
-        System.out.println(
-                "############################################################################################");
-        System.out.println("Menu Item:          Price    Qty       Payable");
-        System.out.println(
-                "#############################################################################################");
-
-        System.out.println("blackCurrent is:\t" + blackCurrentPrice + "\t  " + blackCurrentQuantity + " \t     "
-                + blackCurrentTotal);
-
-        System.out.println("White Forest is:\t" + whiteForestPrice + "\t " + whiteForestQuantity + "\t   " + whiteForestTotal);
-
-        System.out.println("Chocolate is:\t" + chocolatePrice + "\t " + chocolateQuantity + " \t     " + chocolateTotal);
-
-        System.out.println("Red Velvet is:\t" + redVelvetPrice + "\t " + redVelvetQuantity + " \t    " + velvetTotal);
-
-        System.out.println("#############################################################################################");
-
-
-        System.out.println("Total:\t" + "\t                    " + overallTotal);
-        System.out.println("#############################################################################################");
-
-
+       
     }
 }
